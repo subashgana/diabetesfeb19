@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\subash.b\\Downloads\\Firebase Notifications\\AndroidDiabeticFounderApp\\library-circular\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\subash.b\\Downloads\\Firebase Notifications\\AndroidDiabeticFounderApp\\library-circular\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,4,5,6,7,8,9,11,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,548,603,665,726,808,887,964,1497",
+                        "endLines": "2,4,5,6,7,8,10,18,21",
+                        "endColumns": "51,54,61,60,81,78,12,12,12",
+                        "endOffsets": "102,598,660,721,803,882,959,1492,1648"
+                    }
+                }
+            ]
+        }
+    ]
+}
